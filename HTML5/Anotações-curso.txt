@@ -1,0 +1,12 @@
+As tags  <img> não tem fechamento. ex:
+<img>
+<img src="img/avatar.jpg">
+<img alt ="Foto de Alisson">  // "alt" ajuda na acessibilidade. leitores de tela usam essa descrição para "traduzir" 
+o que essa imgem significa.
+
+Listas:
+Listas servem para agrupar uma coleção de itens. 
+
+<ul> representa uma lista aonde a ordem não é importante
+<ol> representa uma lista aonde a ordem é importante (lista numerda). 
+<li> é um item dessa lista 
